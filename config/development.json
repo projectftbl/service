@@ -1,0 +1,23 @@
+{
+  "HOST": "http://localhost:3000"
+
+, "PROVIDER": {
+    "EMAIL": "null"
+  }
+
+, "TWITTER": {
+    "ID": "XHacDOM0P1j1alg0fNy4yIBYj"
+  , "SECRET": "FiWmbJZ4i943y17zDtdNLLFjSbH9pVtHhhHGo7kTELcyznlU2N"
+  }
+
+, "RETHINKDB": {
+    "HOST": "localhost"
+  , "PORT": 28015
+  , "DATABASE": "ftbl"
+  }
+  
+, "REDIS": {
+    "HOST": "localhost"
+  , "PORT": 6379
+  }
+}

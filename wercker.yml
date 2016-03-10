@@ -1,0 +1,11 @@
+box: nodesource/trusty
+services: 
+  - rethinkdb
+  - redis
+
+build:
+  steps:
+    - script:
+        code: export NODE_ENV=ci
+    - npm-install
+    - npm-test

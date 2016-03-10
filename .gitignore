@@ -1,0 +1,9 @@
+node_modules/
+tmp/
+logs/
+coverage/
+_*/
+
+*.log
+.DS_Store
+.vagrant/
