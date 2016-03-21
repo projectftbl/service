@@ -8,6 +8,10 @@
     "CORS": { "Access-Control-Allow-Credentials": true, "origin": "*" }
   }
 
+, "TOKEN": {
+    "SECRET": "ftbl"
+  }
+
 , "CACHE": {
     "TTL": 120
   }

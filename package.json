@@ -33,7 +33,7 @@
     "@ftbl/session-service": "^1.1.0",
     "@ftbl/social": "^1.0.0",
     "@ftbl/socket": "^1.0.4",
-    "@ftbl/store": "^1.1.4",
+    "@ftbl/store": "^1.1.5",
     "@ftbl/task": "^1.1.2",
     "@ftbl/user-service": "^1.0.2",
     "@ftbl/utility": "^1.0.1",
