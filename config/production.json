@@ -1,0 +1,18 @@
+{
+  "HOST": "http://api.projectftbl.com"
+
+, "PROVIDER": {
+    "EMAIL": "mandrill"
+  }
+
+, "TWITTER": {
+    "ID": ""
+  , "SECRET": ""
+  }
+
+, "FACEBOOK": {
+    "ID": "1080273218682225"
+  , "SECRET": "efb85c3ecc9eccbcda064a65c53f2036"
+  }
+
+}

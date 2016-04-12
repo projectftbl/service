@@ -6,6 +6,8 @@
 
 , "HTTP": {
     "CORS": { "Access-Control-Allow-Credentials": true, "origin": "*" }
+
+  , "AUTHENTICATE": [ "ftbl/ftbl" ]
   }
 
 , "TOKEN": {

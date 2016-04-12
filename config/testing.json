@@ -5,19 +5,13 @@
     "EMAIL": "null"
   }
 
-, "TWITTER": {
+, "FACEBOOK": {
     "ID": "4oE4QjJSMnScsC5qmStGBy45a"
   , "SECRET": "ExM2bmJDf6hbo88AjLEtbrgYkjBsds9kzuw5bf0lV5mCH6HVpz"
   }
 
-, "RETHINKDB": {
-    "HOST": "localhost"
-  , "PORT": 28015
-  , "DATABASE": "ftbl"
-  }
-  
-, "REDIS": {
-    "HOST": "localhost"
-  , "PORT": 6379
+, "TWITTER": {
+    "ID": "4oE4QjJSMnScsC5qmStGBy45a"
+  , "SECRET": "ExM2bmJDf6hbo88AjLEtbrgYkjBsds9kzuw5bf0lV5mCH6HVpz"
   }
 }
