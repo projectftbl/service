@@ -3,14 +3,14 @@
 
 , "HTTP": {
     "SECURE": true
-  }
+  } 
 
 , "RETHINKDB": {
     "DATABASE": "production"
   }
 
 , "PROVIDER": {
-    "EMAIL": "null"
+    "EMAIL": "sendgrid"
   }
 
 , "LOGGING": {
