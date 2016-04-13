@@ -8,8 +8,8 @@
     "test": "node ./node_modules/.bin/gulp test"
   },
   "engines": {
-    "node": ">= 4.x",
-    "npm": ">= 3.x"
+    "node": "4.x",
+    "npm": "2.x"
   },
   "author": "Johnny Hall",
   "license": "MIT",
