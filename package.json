@@ -39,7 +39,6 @@
     "@ftbl/user-service": "^1.0.4",
     "@ftbl/utility": "^1.0.1",
     "bluebird": "^2.10.2",
-    "exarch": "^1.0.2",
     "lodash": "^3.10.1"
   },
   "devDependencies": {
