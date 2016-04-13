@@ -1,6 +1,10 @@
 {
   "HOST": "http://api.liveforfootball.com"
 
+, "RETHINKDB": {
+    "DATABASE": "production"
+  }
+
 , "PROVIDER": {
     "EMAIL": "null"
   }
