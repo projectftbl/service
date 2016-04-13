@@ -4,12 +4,12 @@
   "description": "Service container",
   "main": "node index",
   "scripts": {
-    "start": "node --harmony bootstrap",
-    "test": "node --harmony ./node_modules/.bin/gulp test"
+    "start": "node bootstrap",
+    "test": "node ./node_modules/.bin/gulp test"
   },
   "engines": {
-    "node": "0.12.x",
-    "npm": "2.x"
+    "node": ">= 4.x",
+    "npm": ">= 3.x"
   },
   "author": "Johnny Hall",
   "license": "MIT",
