@@ -1,18 +1,23 @@
 {
-  "HOST": "http://api.projectftbl.com"
+  "HOST": "http://api.liveforfootball.com"
 
 , "PROVIDER": {
     "EMAIL": "mandrill"
   }
 
-, "TWITTER": {
-    "ID": ""
-  , "SECRET": ""
-  }
-
 , "FACEBOOK": {
     "ID": "1080273218682225"
   , "SECRET": "efb85c3ecc9eccbcda064a65c53f2036"
+  , "SCOPE": "email,user_likes,user_friends"
   }
+
+, "TWITTER": {
+    "ID": "5wnn54lBCwxZC93Rojn4FPUWj"
+  , "SECRET": "J3y5SNoc3ZCVsLOhrUCMJ09vT4IvNTPAOO0pX6NzAcmgiayuNO"
+  }
+, "GOOGLE": {
+    "ID": "1093341044047-gdmevr2jfn00ichto2rgdnv9b4fspt08.apps.googleusercontent.com"
+  , "SECRET": "klpRRpXNkZemy3kRP36pYgjq"
+  }  
 
 }
