@@ -2,7 +2,7 @@
   "HOST": "http://localhost:3000"
 
 , "PROVIDER": {
-    "EMAIL": "null"
+    "EMAIL": "sendgrid"
   }
 
 , "TWITTER": {

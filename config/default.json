@@ -27,6 +27,15 @@
   , "SUBACCOUNT": ""
   }
 
+, "SENDGRID": {
+    "KEY": "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"
+  }
+
+, "EMAIL": {
+    "FROM": "info@projectftbl.com"
+  , "NAME": "Project: FTBL"
+  }
+
 , "TWILIO": {
     "ID": ""
   , "TOKEN": ""
