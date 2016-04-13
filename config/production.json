@@ -2,7 +2,16 @@
   "HOST": "http://api.liveforfootball.com"
 
 , "PROVIDER": {
-    "EMAIL": "mandrill"
+    "EMAIL": "null"
+  }
+
+, "LOGGING": {
+    "TYPE": "papertrail"
+  }
+
+, "PAPERTRAIL": {
+    "HOST": "logs4.papertrailapp.com"
+  , "PORT": 24180
   }
 
 , "FACEBOOK": {
