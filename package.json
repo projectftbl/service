@@ -8,8 +8,8 @@
     "test": "node ./node_modules/.bin/gulp test"
   },
   "engines": {
-    "node": "4.x",
-    "npm": "2.x"
+    "node": ">= 4.x",
+    "npm": ">= 2.x"
   },
   "author": "Johnny Hall",
   "license": "MIT",
@@ -30,7 +30,7 @@
     "@ftbl/repl": "^1.0.0",
     "@ftbl/request": "^1.0.0",
     "@ftbl/scheduler": "^1.0.3",
-    "@ftbl/server": "^1.3.2",
+    "@ftbl/server": "^1.3.3",
     "@ftbl/session-service": "^1.3.2",
     "@ftbl/social": "^1.0.0",
     "@ftbl/socket": "^1.0.4",
