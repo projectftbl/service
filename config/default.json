@@ -10,6 +10,8 @@
   , "AUTHENTICATE": [ "ftbl/ftbl" ]
   }
 
+, "REFERRERS": [ "snack" ]
+
 , "TOKEN": {
     "SECRET": "ftbl"
   }
