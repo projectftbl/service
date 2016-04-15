@@ -7,8 +7,17 @@
 , "HTTP": {
     "CORS": { "Access-Control-Allow-Credentials": true, "origin": "*" }
 
-  , "AUTHENTICATE": [ "ftbl/ftbl" ]
+  , "AUTHENTICATE": [ 
+      "ftbl/ftbl"
+    , "system/system/system"
+    , "signup/signup/guest" 
+    ]
   }
+
+, "ROLES": [
+    { "name": "Guest", "handle": "guest", "claims": [ { "entity": "member", "right": 1 } ] }
+  , { "name": "System", "handle": "system", "claims": [ { "entity": "member", "right": 1 } ] }
+  ]
 
 , "REFERRERS": [ "snack" ]
 
