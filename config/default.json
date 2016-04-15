@@ -1,22 +1,29 @@
 {
   "FACEBOOK": {
-    "SCOPE": [ "email", "public_profile", "user_friends" ]
-  , "FIELDS": [ "id", "email", "name", "picture.width(300)", "gender", "link", "first_name", "last_name", "location" ]
+    "SCOPE": [ "email", "public_profile", "user_friends", "manage_pages" ]
   }
 
 , "HTTP": {
     "CORS": { "Access-Control-Allow-Credentials": true, "origin": "*" }
 
   , "AUTHENTICATE": [ 
-      "ftbl/ftbl"
+      "ftbl/ftbl/guest"
     , "system/system/system"
     , "signup/signup/guest" 
     ]
   }
 
 , "ROLES": [
-    { "name": "Guest", "handle": "guest", "claims": [ { "entity": "member", "right": 1 } ] }
-  , { "name": "System", "handle": "system", "claims": [ { "entity": "member", "right": 1 } ] }
+    { "name": "Guest", "handle": "guest", "claims": [ 
+        { "entity": "member", "right": 1 } 
+      , { "entity": "user", "right": 1 } 
+      ] 
+    }
+  , { "name": "System", "handle": "system", "claims": [ 
+        { "entity": "member", "right": 1 } 
+      , { "entity": "user", "right": 1 } 
+      ] 
+    }
   ]
 
 , "REFERRERS": [ "snack" ]
