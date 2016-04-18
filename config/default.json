@@ -25,6 +25,11 @@
       , { "entity": "system", "right": 31 } 
       ]
     }
+  , { "name": "Support", "handle": "support", "claims": [ 
+        { "entity": "member", "right": 31 } 
+      , { "entity": "user", "right": 31 } 
+      ]
+    }
   ]
 
 , "REFERRERS": [ "snack" ]
