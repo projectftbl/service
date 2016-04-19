@@ -56,8 +56,8 @@
   }
 
 , "EMAIL": {
-    "FROM": "info@projectftbl.com"
-  , "NAME": "Project: FTBL"
+    "FROM": "sarah.groarke@projectftbl.com"
+  , "NAME": "Project FTBL"
   }
 
 , "TWILIO": {
