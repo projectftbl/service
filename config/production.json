@@ -15,6 +15,7 @@
 
 , "LOGGING": {
     "TYPE": "papertrail"
+  , "FORMAT": "tiny"
   }
 
 , "PAPERTRAIL": {
