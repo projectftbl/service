@@ -15,7 +15,8 @@
 
 , "LOGGING": {
     "TYPE": "papertrail"
-  , "FORMAT": "tiny"
+  , "FORMAT": "combined"
+  , "STACK": true
   }
 
 , "PAPERTRAIL": {
