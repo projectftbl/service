@@ -32,7 +32,7 @@
     }
   ]
 
-, "REFERRERS": [ "snack" ]
+, "REFERRERS": [ "snack", "spain" ]
 
 , "TOKEN": {
     "SECRET": "ftbl"
