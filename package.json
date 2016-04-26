@@ -23,7 +23,7 @@
     "@ftbl/bootstrap": "^1.0.0",
     "@ftbl/bus": "^1.0.6",
     "@ftbl/configuration": "^1.0.0",
-    "@ftbl/contact-service": "^1.0.4",
+    "@ftbl/contact-service": "^1.0.5",
     "@ftbl/errors": "^1.0.0",
     "@ftbl/log": "^1.0.3",
     "@ftbl/member-service": "^1.2.1",
