@@ -1,17 +1,42 @@
 {
-  "HOST": "http://localhost:3000"
+  "HOST": "http://api.testing.liveforfootball.com"
+
+, "HTTP": {
+    "SECURE": false
+  } 
+
+, "RETHINKDB": {
+    "DATABASE": "testing"
+  }
 
 , "PROVIDER": {
-    "EMAIL": "null"
+    "EMAIL": "sendgrid"
+  }
+
+, "LOGGING": {
+    "TYPE": "papertrail"
+  , "FORMAT": "tiny"
+  , "STACK": true
+  }
+
+, "PAPERTRAIL": {
+    "HOST": "logs4.papertrailapp.com"
+  , "PORT": 24180
   }
 
 , "FACEBOOK": {
-    "ID": "4oE4QjJSMnScsC5qmStGBy45a"
-  , "SECRET": "ExM2bmJDf6hbo88AjLEtbrgYkjBsds9kzuw5bf0lV5mCH6HVpz"
+    "ID": "892662254186858"
+  , "SECRET": "3ca0c9f2b4b8165cf2cd23b18e2271d9"
+  , "SCOPE": "email,user_likes,user_friends"
   }
 
 , "TWITTER": {
     "ID": "4oE4QjJSMnScsC5qmStGBy45a"
   , "SECRET": "ExM2bmJDf6hbo88AjLEtbrgYkjBsds9kzuw5bf0lV5mCH6HVpz"
   }
+, "GOOGLE": {
+    "ID": "203274805666-ldm8a8um93rba5a7nt989khjvssa46cl.apps.googleusercontent.com"
+  , "SECRET": "xG2_A-gZJ2m1UrCk4yca5O2n"
+  }  
+
 }
