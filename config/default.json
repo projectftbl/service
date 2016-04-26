@@ -20,14 +20,14 @@
       ] 
     }
   , { "name": "System", "handle": "system", "claims": [ 
-        { "entity": "member", "right": 31 } 
-      , { "entity": "user", "right": 31 } 
-      , { "entity": "system", "right": 31 } 
+        { "entity": "member", "right": 15 } 
+      , { "entity": "user", "right": 15 } 
+      , { "entity": "system", "right": 15 } 
       ]
     }
   , { "name": "Support", "handle": "support", "claims": [ 
-        { "entity": "member", "right": 31 } 
-      , { "entity": "user", "right": 31 } 
+        { "entity": "member", "right": 15 } 
+      , { "entity": "user", "right": 15 } 
       ]
     }
   ]

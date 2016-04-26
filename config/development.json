@@ -1,6 +1,10 @@
 {
   "HOST": "http://localhost:3000"
 
+, "LOGGING": {
+    "STACK": true
+  }
+
 , "PROVIDER": {
     "EMAIL": "null"
   }
