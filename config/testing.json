@@ -6,7 +6,7 @@
   } 
 
 , "RETHINKDB": {
-    "DATABASE": "testing2"
+    "DATABASE": "testing"
   }
 
 , "PROVIDER": {
