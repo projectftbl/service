@@ -1,5 +1,5 @@
 {
-  "HOST": "http://api.testing.liveforfootball.com"
+  "HOST": "http://testing.api.liveforfootball.com"
 
 , "HTTP": {
     "SECURE": false
