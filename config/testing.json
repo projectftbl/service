@@ -3,7 +3,7 @@
 
 , "HTTP": {
     "SECURE": false
-  , "RATE": 1000
+  , "RATE": 100000
   } 
 
 , "RETHINKDB": {
