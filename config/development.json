@@ -12,6 +12,11 @@
 , "TWITTER": {
     "ID": "XHacDOM0P1j1alg0fNy4yIBYj"
   , "SECRET": "FiWmbJZ4i943y17zDtdNLLFjSbH9pVtHhhHGo7kTELcyznlU2N"
+
+  , "TOKEN": {
+      "TOKEN": "3297881-XYRi1O5YlOoY3JH5vLT9shaTjTdv08Y46M2aIms57n"
+    , "SECRET": "XpktbSjB63nX4lERRJWZu8RVM5yYbNmZRcXxHgTLTxEEf"
+    }
   }
 
 , "RETHINKDB": {

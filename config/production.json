@@ -33,6 +33,12 @@
 , "TWITTER": {
     "ID": "5wnn54lBCwxZC93Rojn4FPUWj"
   , "SECRET": "J3y5SNoc3ZCVsLOhrUCMJ09vT4IvNTPAOO0pX6NzAcmgiayuNO"
+
+  , "TOKEN": {
+      "TOKEN": "3297881-GHEixgZxEprDvyY9W9U2ej65U9V3ljI9LmZKIB0LE1"
+    , "SECRET": "0CDF0M41vhf2Y47YiXysU9pHtVJy7HkRM9jdLEEn766nP"
+    }
+
   }
 , "GOOGLE": {
     "ID": "1093341044047-gdmevr2jfn00ichto2rgdnv9b4fspt08.apps.googleusercontent.com"

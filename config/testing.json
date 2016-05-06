@@ -34,7 +34,13 @@
 , "TWITTER": {
     "ID": "4oE4QjJSMnScsC5qmStGBy45a"
   , "SECRET": "ExM2bmJDf6hbo88AjLEtbrgYkjBsds9kzuw5bf0lV5mCH6HVpz"
+
+  , "TOKEN": {
+      "TOKEN": "3297881-Cv5mxlbzlfKVEnVvuMFpe5Fg8iA3505jCvasipJ2Z1"
+    , "SECRET": "K80fKX3VCcXpj0RmCnsoiH6mF2DW9yCIUvNadz5Ohyn0H"
+    }
   }
+
 , "GOOGLE": {
     "ID": "203274805666-ldm8a8um93rba5a7nt989khjvssa46cl.apps.googleusercontent.com"
   , "SECRET": "xG2_A-gZJ2m1UrCk4yca5O2n"
