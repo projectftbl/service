@@ -36,7 +36,7 @@
     "@ftbl/socket": "^1.1.2",
     "@ftbl/store": "^1.2.5",
     "@ftbl/task": "^1.1.4",
-    "@ftbl/user-service": "^1.2.7",
+    "@ftbl/user-service": "^1.2.9",
     "@ftbl/utility": "^1.0.2",
     "bluebird": "^3.3.5",
     "lodash": "^4.11.1"
