@@ -46,6 +46,10 @@
     "LEVEL": "verbose"
   }
 
+, "SCENESKOPE": {
+    "HOST": "https://ftblapi.sceneskope.io/ftblapi/v1"
+  }
+
 , "MANDRILL": {
     "ID": ""
   , "SUBACCOUNT": ""
