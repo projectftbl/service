@@ -35,7 +35,7 @@
     "@ftbl/server": "^1.3.28",
     "@ftbl/session-service": "^1.3.3",
     "@ftbl/socket": "^1.1.2",
-    "@ftbl/store": "^1.2.7",
+    "@ftbl/store": "^1.2.8",
     "@ftbl/task": "^1.1.4",
     "@ftbl/timeline-service": "^1.1.1",
     "@ftbl/user-service": "^1.2.9",
