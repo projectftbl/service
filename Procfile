@@ -1,1 +1,1 @@
-web: python tunnel.py; node bootstrap.js 
+web: python tunnel.py && node bootstrap.js 
