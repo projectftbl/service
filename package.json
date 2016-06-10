@@ -20,7 +20,7 @@
   "dependencies": {
     "@ftbl/app": "^1.1.5",
     "@ftbl/authentication": "^1.0.2",
-    "@ftbl/bootstrap": "^1.0.2",
+    "@ftbl/bootstrap": "^1.0.3",
     "@ftbl/bus": "^1.0.8",
     "@ftbl/configuration": "^1.0.0",
     "@ftbl/contact-service": "^1.0.5",
