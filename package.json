@@ -25,7 +25,7 @@
     "@ftbl/configuration": "^1.0.0",
     "@ftbl/contact-service": "^1.0.5",
     "@ftbl/errors": "^1.0.0",
-    "@ftbl/feedback-service": "^1.1.1",
+    "@ftbl/feedback-service": "^1.1.2",
     "@ftbl/log": "^1.0.3",
     "@ftbl/member-service": "^1.3.2",
     "@ftbl/redis": "^1.0.3",
