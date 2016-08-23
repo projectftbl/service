@@ -7,3 +7,4 @@ _*/
 *.log
 .DS_Store
 .vagrant/
+config/local.json

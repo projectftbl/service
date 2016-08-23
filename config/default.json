@@ -47,7 +47,7 @@
   }
 
 , "SCENESKOPE": {
-    "HOST": "https://ftblapi.sceneskope.io/ftblapi/v1"
+    "HOST": "https://ftblapi.sceneskope.io/ftblapi/v2"
   }
 
 , "MANDRILL": {
