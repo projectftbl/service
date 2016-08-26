@@ -18,7 +18,6 @@
     "url": "git@github.com:projectftbl/service.git"
   },
   "dependencies": {
-    "@ftbl/aggregation-service": "^1.1.17",
     "@ftbl/app": "^1.1.5",
     "@ftbl/authentication": "^1.0.2",
     "@ftbl/bootstrap": "^1.0.3",
