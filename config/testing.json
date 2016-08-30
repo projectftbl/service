@@ -6,6 +6,10 @@
   , "RATE": 100000
   } 
 
+, "CACHE": {
+    "TTL": 180
+  }
+
 , "RETHINKDB": {
     "DATABASE": "testing"
   }
