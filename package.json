@@ -37,7 +37,7 @@
     "@ftbl/socket": "^1.1.2",
     "@ftbl/store": "^1.2.17",
     "@ftbl/task": "^1.1.4",
-    "@ftbl/timeline-service": "^1.1.15",
+    "@ftbl/timeline-service": "^1.1.16",
     "@ftbl/user-service": "^1.2.14",
     "@ftbl/utility": "^1.1.1",
     "bluebird": "^3.3.5",
