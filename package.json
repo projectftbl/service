@@ -32,7 +32,7 @@
     "@ftbl/repl": "^1.0.0",
     "@ftbl/request": "^1.2.2",
     "@ftbl/scheduler": "^1.0.3",
-    "@ftbl/server": "^1.3.28",
+    "@ftbl/server": "^1.3.29",
     "@ftbl/session-service": "^1.3.3",
     "@ftbl/socket": "^1.1.2",
     "@ftbl/store": "^1.2.17",
