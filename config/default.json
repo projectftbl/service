@@ -56,12 +56,12 @@
   }
 
 , "SENDGRID": {
-    "KEY": "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"
+    "KEY": ""
   }
 
 , "EMAIL": {
-    "FROM": "sarah.groarke@projectftbl.com"
-  , "NAME": "Project FTBL"
+    "FROM": "johnny@recipher.co.uk"
+  , "NAME": "Johnny Hall"
   }
 
 , "TWILIO": {
@@ -71,7 +71,7 @@
   }
 
 , "STATS": {
-    "KEY": "cnfvbvfcm3bugp38awq8nyha"
-  , "SECRET": "MUkq8t2CEv"
+    "KEY": ""
+  , "SECRET": ""
   }
 }
