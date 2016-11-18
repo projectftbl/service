@@ -1,5 +1,5 @@
 {
-  "HOST": "https://api.liveforfootball.com"
+  "HOST": "https://api.recipher.co.uk"
 
 , "HTTP": {
     "SECURE": true
@@ -25,24 +25,24 @@
   }
 
 , "FACEBOOK": {
-    "ID": "1080273218682225"
-  , "SECRET": "efb85c3ecc9eccbcda064a65c53f2036"
+    "ID": ""
+  , "SECRET": ""
   , "SCOPE": "email,user_likes,user_friends"
   }
 
 , "TWITTER": {
-    "ID": "5wnn54lBCwxZC93Rojn4FPUWj"
-  , "SECRET": "J3y5SNoc3ZCVsLOhrUCMJ09vT4IvNTPAOO0pX6NzAcmgiayuNO"
+    "ID": ""
+  , "SECRET": ""
 
   , "TOKEN": {
-      "TOKEN": "3297881-GHEixgZxEprDvyY9W9U2ej65U9V3ljI9LmZKIB0LE1"
-    , "SECRET": "0CDF0M41vhf2Y47YiXysU9pHtVJy7HkRM9jdLEEn766nP"
+      "TOKEN": ""
+    , "SECRET": ""
     }
 
   }
 , "GOOGLE": {
-    "ID": "1093341044047-gdmevr2jfn00ichto2rgdnv9b4fspt08.apps.googleusercontent.com"
-  , "SECRET": "klpRRpXNkZemy3kRP36pYgjq"
+    "ID": ""
+  , "SECRET": ""
   }  
 
 }

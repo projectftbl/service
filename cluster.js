@@ -1,3 +1,3 @@
-var start = require('@ftbl/bootstrap').cluster;
+var start = require('@recipher/bootstrap').cluster;
 
 start(require('./lib'));

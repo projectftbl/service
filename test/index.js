@@ -1,6 +1,6 @@
 var should = require('chai').should()
   , request = require('supertest')
-  , Server = require('@ftbl/server');
+  , Server = require('@recipher/server');
 
 describe('Server', function() {
 	

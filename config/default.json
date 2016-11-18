@@ -7,8 +7,7 @@
     "CORS": { "Access-Control-Allow-Credentials": true, "origin": "*" }
 
   , "AUTHENTICATE": [ 
-      "ftbl/ftbl/guest"
-    , "system/system/system"
+      "system/system/system"
     , "signup/signup/guest" 
     ]
   }
@@ -32,10 +31,8 @@
     }
   ]
 
-, "REFERRERS": [ "snack", "spain", "freestyle", "spencer", "greece" ]
-
 , "TOKEN": {
-    "SECRET": "ftbl"
+    "SECRET": "qP64ZJkUYwTR&p"
   }
 
 , "CACHE": {
@@ -44,10 +41,6 @@
 
 , "LOGGING": {
     "LEVEL": "verbose"
-  }
-
-, "SCENESKOPE": {
-    "HOST": "https://ftblapi.sceneskope.io/ftblapi/v2"
   }
 
 , "MANDRILL": {
@@ -68,10 +61,5 @@
     "ID": ""
   , "TOKEN": ""
   , "NUMBER": ""
-  }
-
-, "STATS": {
-    "KEY": ""
-  , "SECRET": ""
   }
 }

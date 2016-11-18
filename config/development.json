@@ -22,7 +22,7 @@
 , "RETHINKDB": {
     "HOST": "localhost"
   , "PORT": 28015
-  , "DATABASE": "ftbl"
+  , "DATABASE": "recipher"
   }
   
 , "REDIS": {

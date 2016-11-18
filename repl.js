@@ -1,4 +1,4 @@
-var repl = require('@ftbl/repl')
+var repl = require('@recipher/repl')
   , pkg = require('./package.json')
 
 repl(pkg.name, require('./lib'));
