@@ -20,8 +20,8 @@
   }
 
 , "PAPERTRAIL": {
-    "HOST": "logs4.papertrailapp.com"
-  , "PORT": 24180
+    "HOST": "logs5.papertrailapp.com"
+  , "PORT": 22475
   }
 
 , "FACEBOOK": {
