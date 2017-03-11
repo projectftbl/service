@@ -31,7 +31,7 @@
     "@recipher/repl": "^1.0.0",
     "@recipher/request": "^1.2.2",
     "@recipher/server": "^1.3.30",
-    "@recipher/session-service": "^1.3.3",
+    "@recipher/session-service": "^1.3.8",
     "@recipher/socket": "^1.1.2",
     "@recipher/store": "^1.2.17",
     "@recipher/task": "^1.1.4",
