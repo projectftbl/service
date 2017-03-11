@@ -9,6 +9,12 @@
     "EMAIL": "null"
   }
 
+, "FACEBOOK": {
+    "ID": "1080273218682225"
+  , "SECRET": "efb85c3ecc9eccbcda064a65c53f2036"
+  , "SCOPE": "email,user_likes,user_friends"
+  }
+
 , "TWITTER": {
     "ID": "XHacDOM0P1j1alg0fNy4yIBYj"
   , "SECRET": "FiWmbJZ4i943y17zDtdNLLFjSbH9pVtHhhHGo7kTELcyznlU2N"

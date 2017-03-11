@@ -18,15 +18,16 @@
     "url": "git@github.com:recipher/service.git"
   },
   "dependencies": {
-    "@recipher/app": "^1.1.5",
+    "@recipher/app": "^1.1.4",
     "@recipher/authentication": "^1.0.2",
+    "@recipher/booking-service": "^1.0.0",
     "@recipher/bootstrap": "^1.0.3",
     "@recipher/bus": "^1.0.9",
     "@recipher/configuration": "^1.0.0",
     "@recipher/contact-service": "^1.0.5",
     "@recipher/errors": "^1.0.0",
     "@recipher/log": "^1.0.3",
-    "@recipher/member-service": "^1.3.5",
+    "@recipher/member-service": "^1.3.4",
     "@recipher/redis": "^1.0.3",
     "@recipher/repl": "^1.0.0",
     "@recipher/request": "^1.2.2",
