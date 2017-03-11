@@ -1,5 +1,5 @@
 {
-  "HOST": "https://api.recipher.co.uk"
+  "HOST": "https://core-service-production.herokuapp.com"
 
 , "HTTP": {
     "SECURE": true
