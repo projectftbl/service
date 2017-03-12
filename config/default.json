@@ -35,6 +35,10 @@
     "SECRET": "qP64ZJkUYwTR&p"
   }
 
+, "STRIPE": {
+    "KEY": "sk_test_vpNXC8nwzBCva4OYNM2U5380"
+  }
+
 , "CACHE": {
     "TTL": 120
   }
