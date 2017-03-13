@@ -36,7 +36,7 @@
   }
 
 , "STRIPE": {
-    "KEY": "sk_test_vpNXC8nwzBCva4OYNM2U5380"
+    "KEY": ""
   }
 
 , "CACHE": {
@@ -57,8 +57,8 @@
   }
 
 , "EMAIL": {
-    "FROM": "johnny@recipher.co.uk"
-  , "NAME": "Johnny Hall"
+    "FROM": "info@hillsideoutside.com"
+  , "NAME": "Tweedlove Mega Demo"
   }
 
 , "TWILIO": {
