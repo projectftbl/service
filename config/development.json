@@ -6,7 +6,11 @@
   }
 
 , "PROVIDER": {
-    "EMAIL": "null"
+    "EMAIL": "sendgrid"
+  }
+
+, "STRIPE": {
+    "KEY": "sk_test_vpNXC8nwzBCva4OYNM2U5380"
   }
 
 , "FACEBOOK": {

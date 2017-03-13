@@ -35,10 +35,6 @@
     "SECRET": "qP64ZJkUYwTR&p"
   }
 
-, "STRIPE": {
-    "KEY": ""
-  }
-
 , "CACHE": {
     "TTL": 120
   }
@@ -57,7 +53,7 @@
   }
 
 , "EMAIL": {
-    "FROM": "info@hillsideoutside.com"
+    "FROM": "info@tweedlove.com"
   , "NAME": "Tweedlove Mega Demo"
   }
 
