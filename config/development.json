@@ -6,7 +6,7 @@
   }
 
 , "PROVIDER": {
-    "EMAIL": "sendgrid"
+    "EMAIL": "null"
   }
 
 , "STRIPE": {
